@@ -1,1 +1,5 @@
 theme: jekyll-theme-modernist
+title: Lean-Agile Product Management
+email: humble@berkeley.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Public lectures from Jez Humble's Lean-Agile Product Management class at UC Berkeley iSchool.
