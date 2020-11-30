@@ -2,7 +2,7 @@ This is the public version of the 2020 remote syllabus developed for [Info 290M 
 
 This course is designed to give participants a practical overview of the modern lean/agile product management paradigm based on contemporary industry practice. It covers the complete lifecycle of product management, from discovering your customers and users through to release planning, economic frameworks, and managing teams. It takes an experimental approach throughout, showing how to minimize investment and output while maximizing the information we discover in order to support effective decision-making. This class is necessarily incomplete, and does not cover product sales and marketing, product strategy, and pricing amongst other topics.
 
-This public version of the syllabus is designed for self-study and omits classes, some assignments, and guest lectures, all of which expand the syllabus. The website for this class, with details on grading and the most up-to-date syllabus for current students (including all assignments, classes and guest lectures) is at [https://leanagile.pm/](https://leanagile.pm). Feel free to submit a pull request or create an issue!
+This public version of the syllabus is designed for self-study and omits classes, some assignments, and guest lectures, all of which expand the syllabus. The website for this class, with details on grading and the most up-to-date syllabus for current students (including all assignments, classes and guest lectures) is at [https://leanagile.pm/](https://leanagile.pm). Feel free to [submit a pull request](https://github.com/jezhumble/lapm-new/pulls) or [create an issue](https://github.com/jezhumble/lapm-new/issues)!
 
 ## Unit 1: Introduction
 
@@ -41,15 +41,15 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 
 * Write a brief [problem statement](https://productcoalition.com/how-to-write-a-good-customer-problem-statement-a815f80189ba) for your product (<100 words).
 * Create 2 proto-personas.
-* Create an [empathy map](https://gamestorming.com/wp-content/uploads/2017/07/Empathy-Map-Canvas-006.pdf) for each proto-persona (more on empathy maps: [Nielsen Norman Group](https://www.nngroup.com/articles/empathy-mapping/) | [Dave Gray](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a)).
+* Create an [empathy map](https://gamestorming.com/wp-content/uploads/2017/07/Empathy-Map-Canvas-006.pdf) for each proto-persona (more on empathy maps: [Nielsen Norman Group](https://www.nngroup.com/articles/empathy-mapping/), [Dave Gray](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a)).
 
 ### Further Reading (optional)
 
-* https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works 
-* https://methods.18f.gov/discover/ 
-* https://www.gv.com/sprint/ 
-* https://gamestorming.com/
-* https://blog.leanstack.com/how-to-avoid-the-innovators-bias-for-the-solution-2a6f23cc0851
-* Badass: Making Users Awesome by Kathy Sierra (or watch her talk)
-* Practical Empathy by Indi Young
-* Lean UX by Jeff Gothelf with Josh Seiden
+* [The UK Government Digital Service's guide to how the discovery phase works](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works)
+* [18F's guide to discovery methods](https://methods.18f.gov/discover/)
+* [Google Ventures describes the design sprint](https://www.gv.com/sprint/)
+* [Gamestorming exercises](https://gamestorming.com/)
+* [How to Avoid the Innovator’s Bias for the Solution](https://blog.leanstack.com/how-to-avoid-the-innovators-bias-for-the-solution-2a6f23cc0851) by Ash Maurya
+* _Badass: Making Users Awesome by Kathy Sierra_ (or watch [her talk](https://www.youtube.com/watch?v=r4dNaflEgP4))
+* _Practical Empathy_ by Indi Young
+* _Lean UX_ by Jeff Gothelf with Josh Seiden
