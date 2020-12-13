@@ -1,6 +1,5 @@
 This is the public version of the 2020 remote syllabus developed for [Info 290M Lean/Agile Product Management](https://www.ischool.berkeley.edu/courses/info/290m/lapm), a three-unit graduate class taught by [Jez Humble](https://www.ischool.berkeley.edu/people/jez-humble) at UC Berkeley’s [School of Information](https://www.ischool.berkeley.edu/). Everything in this document is copyright Jez Humble and licensed [Creative Commons Attribution-Share Alike](https://creativecommons.org/licenses/by-sa/3.0/us/) unless otherwise noted.
 
-
 This course is designed to give participants a practical overview of the modern lean/agile product management paradigm based on contemporary industry practice. It covers the complete lifecycle of product management, from discovering your customers and users to release planning, economic frameworks, and managing teams. It takes an experimental approach throughout, showing how to minimize investment and output while maximizing the information we discover to support effective decision-making. This class is necessarily incomplete and does not cover product sales and marketing, product strategy, and pricing, amongst other topics.
 
 This public version of the syllabus is designed for self-study and omits classes, some assignments, and guest lectures, all of which expand the syllabus. The website for this class, with details on grading and the most up-to-date syllabus for current students (including all assignments, classes, and guest lectures) is at [https://leanagile.pm/](https://leanagile.pm). Feel free to [submit a pull request](https://github.com/jezhumble/lapm-new/pulls) or [create an issue](https://github.com/jezhumble/lapm-new/issues)!
@@ -20,6 +19,8 @@ This public version of the syllabus is designed for self-study and omits classes
 * Unit 1 Module 4: [A brief history of software project management](https://www.youtube.com/watch?v=xM0t5OWX0D8)
 * Unit 1 Module 5: [Project vs Product](https://www.youtube.com/watch?v=wrDD-tPn9MU)
 * [Slides](https://speakerdeck.com/jezhumbleucb/unit-1-introduction-to-the-product-lifecycle)
+
+***
 
 ## Unit 2: Discovery
 
@@ -55,6 +56,8 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 * _Practical Empathy_ by Indi Young
 * _Lean UX_ by Jeff Gothelf with Josh Seiden
 
+***
+
 ## Unit 3: Experimental Product Development
 
 ### Background study
@@ -88,6 +91,8 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 * [Quantitative User-Research Methodologies: An Overview](https://www.nngroup.com/articles/quantitative-user-research-methods/) by Kate Moran
 * [The 7 Habits for Running Highly Effective Lean Startup Experiments](https://blog.leanstack.com/the-7-habits-for-running-highly-effective-lean-startup-experiments-f1daaa93f85b) by Ash Maurya
 
+***
+
 ## Unit 4: Planning Releases
 
 ### Background study
@@ -116,6 +121,8 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 * _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
 * _User Story Mapping_ by Jeff Patton
 
+***
+
 ## Unit 5: Economic Frameworks
 
 ### Background study
@@ -134,11 +141,13 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 ### Further reading
 
 * [Decision Tree Primer](http://www.public.asu.edu/~kirkwood/DAStuff/refs/decisiontrees/index.html) by Craig Kirkwood
-* Talk: “When and How to Pivot” by David Binetti: [slides](https://www.slideshare.net/startuplessonslearned/david-binetti-lean-startup-votizen-pivot-at-sllconf-2011) | [video](https://www.youtube.com/watch?v=AFztj9XSw-4).
+* Talk: “When and How to Pivot” by David Binetti: [slides](https://www.slideshare.net/startuplessonslearned/david-binetti-lean-startup-votizen-pivot-at-sllconf-2011), [video](https://www.youtube.com/watch?v=AFztj9XSw-4).
 * _How to Measure Anything_ by Douglas Hubbard
 * _The Principles of Product Development Flow_ by Don Reinertsen
 * _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O’Reilly
+
+***
 
 ## Unit 6: Managing Work
 
@@ -166,6 +175,8 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 * Kanban: Successful Evolutionary Change for Your Technology Business by David J Anderson
 * [Kanban and Scrum: Making the Most of Both](https://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg and Mattias Skarin
 
+***
+
 ## Unit 7: Managing Teams
 
 ### Background study
@@ -191,6 +202,8 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 * [One on Ones template](https://www.manager-tools.com/system/files/documents/docs/Manager-Tools_One_on_One_Basics.pdf) by Manager Tools
 * Out of the Crisis by W. Edwards Deming
 * Chapter 11 of Lean Enterprise by Jez Humble, Joanne Molesky, and Barry O’Reilly (available in the [free excerpt](http://bit.ly/lean-enterprise-excerpt))
+
+***
 
 ## Unit 8: Getting Stuff Done
 
