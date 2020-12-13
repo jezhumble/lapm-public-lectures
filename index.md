@@ -2,7 +2,7 @@ This is the public version of the 2020 remote syllabus developed for [Info 290M 
 
 This course is designed to give participants a practical overview of the modern lean/agile product management paradigm based on contemporary industry practice. It covers the complete lifecycle of product management, from discovering your customers and users to release planning, economic frameworks, and managing teams. It takes an experimental approach throughout, showing how to minimize investment and output while maximizing the information we discover to support effective decision-making. This class is necessarily incomplete and does not cover product sales and marketing, product strategy, and pricing, amongst other topics.
 
-This public version of the syllabus is designed for self-study and omits classes, some assignments, and guest lectures, all of which expand the syllabus. The website for this class, with details on grading and the most up-to-date syllabus for current students (including all assignments, classes, and guest lectures) is at [https://leanagile.pm/](https://leanagile.pm). Feel free to [submit a pull request](https://github.com/jezhumble/lapm-new/pulls) or [create an issue](https://github.com/jezhumble/lapm-new/issues)!
+This public version of the syllabus is designed for self-study and omits classes, some assignments, and guest lectures, all of which expand the syllabus. The website for this class, with details on grading and the most up-to-date syllabus for current students (including all assignments, classes, and guest lectures) is at [https://leanagile.pm/](https://leanagile.pm). There is a [reading list](#reading-list) at the bottom. Feel free to [submit a pull request](https://github.com/jezhumble/lapm-new/pulls) or [create an issue](https://github.com/jezhumble/lapm-new/issues)!
 
 ## Unit 1: Introduction
 
@@ -222,3 +222,21 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 
 * Mike Rother’s [Toyota Kata website](http://www-personal.umich.edu/~mrother/Homepage.html)
 * Google Cloud’s [guide to organizational transformation](https://cloud.google.com/solutions/devops/devops-culture-transform)
+
+***
+
+## Reading List
+
+There are no required books for this course. However, if you’re interested in getting a solid grounding in the subject, I recommend the following:
+
+* _Inspired: How To Create Products Customers Love_ by Marty Cagan
+* _Badass: Making Users Awesome_ by Kathy Sierra
+* _Escaping the Build Trap: How Effective Product Management Creates Real Value_ by Melissa Perri
+* _Lean UX: Applying Lean Principles to Improve User Experience_ by Jeff Gothelf with Josh Seiden
+* _The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses_ by Eric Ries
+* _Running Lean: Iterate from Plan A to a Plan That Works_ by Ash Maurya
+* _The Principles of Product Development Flow: Second Generation Lean Product Development_ by Donald G. Reinertsen
+* _Escape Velocity: Free Your Company’s Future from the Pull of the Past_ by Geoffrey A. Moore
+* _User Story Mapping: Discover the Whole Story, Build the Right Product_ by Jeff Patton
+* _Lean Enterprise: How High-Performance Organizations Innovate at Scale_ by Jez Humble, Joanne Molesky, and Barry O’Reilly
+* _How to Measure Anything: Finding the Value of “Intangibles” in Business_ by Douglas W. Hubbard
