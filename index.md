@@ -4,7 +4,7 @@ This course is designed to give participants a practical overview of the modern 
 
 This public version of the syllabus is designed for self-study and omits classes, some assignments, and guest lectures, all of which expand the syllabus. The website for this class, with details on grading and the most up-to-date syllabus for current students (including all assignments, classes, and guest lectures) is at [https://leanagile.pm/](https://leanagile.pm). There is a [reading list](#reading-list) at the bottom. Feel free to [submit a pull request](https://github.com/jezhumble/lapm-new/pulls) or [create an issue](https://github.com/jezhumble/lapm-new/issues)!
 
-> :white_check_mark: All videos are hosted on YouTube and have closed captions enabled. You can also choose a different speed: I personally found 1.5x to work well. 
+> ✅ All videos are hosted on YouTube and have closed captions enabled. You can also choose a different speed: I personally found 1.5x to work well. 
 
 ## Unit 1: Introduction
 
