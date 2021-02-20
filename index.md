@@ -234,11 +234,11 @@ There are no required books for this course. However, if you’re interested in 
 * _Inspired: How To Create Products Customers Love_ by Marty Cagan
 * _Badass: Making Users Awesome_ by Kathy Sierra
 * _Escaping the Build Trap: How Effective Product Management Creates Real Value_ by Melissa Perri
+* _User Story Mapping: Discover the Whole Story, Build the Right Product_ by Jeff Patton
+* _The Principles of Product Development Flow: Second Generation Lean Product Development_ by Donald G. Reinertsen
 * _Lean UX: Applying Lean Principles to Improve User Experience_ by Jeff Gothelf with Josh Seiden
 * _The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses_ by Eric Ries
 * _Running Lean: Iterate from Plan A to a Plan That Works_ by Ash Maurya
-* _The Principles of Product Development Flow: Second Generation Lean Product Development_ by Donald G. Reinertsen
 * _Escape Velocity: Free Your Company’s Future from the Pull of the Past_ by Geoffrey A. Moore
-* _User Story Mapping: Discover the Whole Story, Build the Right Product_ by Jeff Patton
 * _Lean Enterprise: How High-Performance Organizations Innovate at Scale_ by Jez Humble, Joanne Molesky, and Barry O’Reilly
 * _How to Measure Anything: Finding the Value of “Intangibles” in Business_ by Douglas W. Hubbard
