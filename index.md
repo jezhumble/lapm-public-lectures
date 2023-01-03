@@ -119,7 +119,7 @@ For this assignment, you’ll need to come up with an idea for a business. This 
 * [Google's guide to using OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 * [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) by Marty Cagan
 * [Dear Customer: The Truth about IT Projects](http://www.agileconnection.com/article/dear-customer-truth-about-it-projects) by Allan Kelly
-* [Estimation is Evil](https://pragprog.com/magazines/2013-02/estimation-is-evil) by Ron Jeffries
+* [Estimation is Evil](https://medium.com/pragmatic-programmers/estimation-is-evil-overcoming-the-estimation-obsession-60ce0544ac1e) by Ron Jeffries
 * _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
 * _User Story Mapping_ by Jeff Patton
 
